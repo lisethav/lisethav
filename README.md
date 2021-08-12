@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liseth Arias</h1>
 <h3 align="center">A passionate frontend development student from Colombia.</h3>
 
-/*- 📝 I regularly write articles on [www.linkedin.com/in/liseth-arias](www.linkedin.com/in/liseth-arias)*/
+- 📝 I regularly write articles on [www.linkedin.com/in/liseth-arias](www.linkedin.com/in/liseth-arias)
 
 - 📫 How to reach me **lisethav@gmail.com**
 
