@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Liseth Arias</h1>
-<h3 align="center">A passionate frontend development student from Colombia.</h3>
+<h3 align="center">A passionate student of frontend development and videogames from Colombia.</h3>
 
-- 📝 I regularly write articles on [www.linkedin.com/in/liseth-arias](www.linkedin.com/in/liseth-arias)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lisethav&label=Profile%20views&color=0e75b6&style=flat" alt="lisethav" /> </p>
+
+- 🌱 I’m currently learning **Unity**
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/liseth-arias](https://www.linkedin.com/in/liseth-arias)
 
 - 📫 How to reach me **lisethav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@lisethav55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lisethav55" height="30" width="40" /></a>
+<a href="https://twitter.com/lisethav55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lisethav55" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/liseth-arias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liseth-arias/" height="30" width="40" /></a>
 <a href="https://www.behance.net/lisethariasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lisethariasv" height="30" width="40" /></a>
 </p>
