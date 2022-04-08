@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lisethav&label=Profile%20views&color=0e75b6&style=flat" alt="lisethav" /> </p>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Frontend Technologies **
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/liseth-arias](https://www.linkedin.com/in/liseth-arias)
 
